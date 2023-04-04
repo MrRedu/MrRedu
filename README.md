@@ -9,9 +9,9 @@
 ##### **Datos personales:** *(no apto para su distribución con fines de lucro)*
 ```
 data: {
-    name: Eduardo Rodríguez
-    aka: Mr Redu
-    address: Al norte del sur de América 🌎
+    name: "Eduardo Rodríguez"
+    aka: "Mr Redu"
+    address: "Al norte del sur de América 🌎"
 }
 ```
 
@@ -20,7 +20,7 @@ data: {
 
 ### Interés:
 - 💻 Programación
-- 🥇 Obtención de logros en diferentes ámbitos de la existencia
+- 🥇 Obtención de logros en diferentes ámbitos
 
 <br><hr><br>
 
