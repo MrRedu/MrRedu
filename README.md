@@ -6,7 +6,7 @@
 > cualquier tipo de contenido 
 > que me genere interés ✏️*
 
-##### **Datos personales:** *(no apto para su distribución con fines de lucro)*
+##### **Datos personales:** *(no apto para su distribución con fines de lucro 🤨)*
 ```
 data: {
     name: "Eduardo Rodríguez"
