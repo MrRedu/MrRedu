@@ -39,7 +39,7 @@ data: {
 
 ##### **Comandos *Alias*:**
 | Alias                 |   Comando       | Función                                | 
-| :---                  |  :---:          |                     ---:               |
+| :---:                 |  :---:          |                     ---:               |
 | `limpiartodito` [^5]  |     `clear`     |  Aplica la misma función de `clear`    |
 |          `h`          |    `history` [^6]    | Cuando se invoca sin ninguna opción o argumento, *muestra toda la lista de historial* con números de línea. | 
 
