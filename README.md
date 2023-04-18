@@ -1,4 +1,4 @@
-Idioma: [es] [Español](README-es.md) - [en] [English](README-en.md)
+Idioma: [es] [Español](README.md) - [en] [English](README-EN.md)
 
 ---
 
