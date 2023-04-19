@@ -9,8 +9,8 @@ Idioma: [es] [Español](README.md) - [en] [English](README-EN.md)
 ### Acerca de mí
 ```javascript
 data: {
-    name: "Eduardo Rodríguez"
-    aka: "Mr Redu"
+    name: "Eduardo Rodríguez",
+    aka: "Mr Redu",
     address: "Al norte del sur de América 🌎"
 }
 ```
