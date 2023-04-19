@@ -3,12 +3,10 @@ Idioma: [es] [Español](README.md) - [en] [English](README-EN.md)
 ---
 
 ## Mr Redu
-### Eduardo Rodríguez
 
-> *Aprendiz de investigar a tráves del navegador cualquier tipo de contenido que me genere interés ✏️*
+> *Aprendiz de investigar a tráves del internet cualquier tipo de contenido que me genere interés ✏️*
 
 ### Acerca de mí
-#### **Datos personales:** *(no apto para su distribución con fines de lucro 🤨)*
 ```javascript
 data: {
     name: "Eduardo Rodríguez"
