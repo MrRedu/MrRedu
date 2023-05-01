@@ -12,6 +12,10 @@
 - My name is Eduardo
 - I'm a self-taught programmer constantly learning
 
+
+
+<br>
+
 ## 💻 Skills:
 <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Antu_text-x-markdown.svg/512px-Antu_text-x-markdown.svg.png?20160706132933" title="Markdown" alt="Markdown" width="50" height="50"/>
@@ -31,7 +35,11 @@
     <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" title="Ubuntu" alt="Ubuntu" width="50" height="50"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" title="Bash" alt="Bash" width="50" height="50"/>
 </div>
-   
+
+
+
+<br>   
+
 ## 📊 My stats:
 <p align="start">
     <img width="500em" src="https://github-readme-stats.vercel.app/api?username=MrRedu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
