@@ -41,14 +41,11 @@
 <br>   
 
 ## 📊 My stats:
-<img width="40%" display="inline" src="https://github-readme-stats.vercel.app/api?username=MrRedu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
-<img width="40%" display="inline" src="https://github-readme-streak-stats.herokuapp.com/?user=MrRedu&theme=tokyonight&hide_border=false">
-
 <p align="start">
-    
+    <img width="500em" src="https://github-readme-stats.vercel.app/api?       username=MrRedu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
 </p>
 <p align="start">
-    
+    <img width="500em" display="inline" src="https://github-readme-streak-stats.herokuapp.com/?user=MrRedu&theme=tokyonight&hide_border=false">
 </p>
 <p align="start">
     <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrredu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
