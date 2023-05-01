@@ -1,7 +1,7 @@
 <div align="end">
     Languages:  <a href="">[es] Spanish</a> or <a href="">[en] English</a>
 </div>
-<br><br>
+
 
 <h1 align="center">What's up! Welcome to MrRedu's profile 👀</h1>
 <!-- <h3 align="center">Un apasionado FullStack Developer en desarrollo.</h3>
