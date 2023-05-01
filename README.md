@@ -31,17 +31,16 @@
     <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" title="Ubuntu" alt="Ubuntu" width="50" height="50"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" title="Bash" alt="Bash" width="50" height="50"/>
 </div>
-
-    
-<h2 align="center"> 📊 My stats:</h2>
-<p align="center">
-    <img width="450em" src="https://github-readme-stats.vercel.app/api?username=MrRedu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
+   
+## 📊 My stats:
+<p align="start">
+    <img width="500em" src="https://github-readme-stats.vercel.app/api?username=MrRedu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
 </p>
-<p align="center">
+<p align="start">
     <img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrRedu&theme=tokyonight&hide_border=false">
 </p>
-<p align="center">
-    <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrredu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+<p align="start">
+    <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrredu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
 
 ---
