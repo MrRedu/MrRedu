@@ -2,9 +2,11 @@ Idioma: [es] [Español](README.md) - [en] [English](README-EN.md)
 
 ---
 
-## Mr Redu
+<h1 align="center">What's up! Welcome to MrRedu's profile 👀</h1>
 
-> *Aprendiz de investigar a tráves del internet cualquier tipo de contenido que me genere interés ✏️*
+<h3 align="center">Un apasionado FullStack Developer en desarrollo.</h3>
+
+<img align="center" alt="mood" src="https://i.giphy.com/RThN0hOS2GO4M.gif">
 
 ### Acerca de mí
 ```javascript
