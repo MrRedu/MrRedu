@@ -1,30 +1,13 @@
-Idioma: [es] [Español](README.md) - [en] [English](README-EN.md)
-
----
+<div align="end">
+    Languages:  <a href="">[es] Spanish</a> or <a href="">[en] English</a>
+</div>
+<br><br>
 
 <h1 align="center">What's up! Welcome to MrRedu's profile 👀</h1>
+<!-- <h3 align="center">Un apasionado FullStack Developer en desarrollo.</h3>
+ -->
+<img src="https://camo.githubusercontent.com/2597bac0620b2dbaf653f9e0c48326253f5305a4f14febf0e4a71c56c3b1e47e/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313631353833393030333034382f5f4657334a666737722e676966">
+<br><br>
 
-<h3 align="center">Un apasionado FullStack Developer en desarrollo.</h3>
-
-<img align="center" alt="mood" src="https://i.giphy.com/RThN0hOS2GO4M.gif">
-
-### Acerca de mí
-```javascript
-data: {
-    name: "Eduardo Rodríguez",
-    aka: "Mr Redu",
-    address: "Al norte del sur de América 🌎"
-}
-```
-
-#### Tecnologías:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-#### Educación:
-- 📚 Ph.D. en la utilización del navegador
-
-#### 
-
-#### Interés:
-- 💻 Programación
-- 👨‍💻 Tecnología
+## 🚀 About Me
+I'm a full stack developer...
