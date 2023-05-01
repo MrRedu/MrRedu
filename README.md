@@ -28,7 +28,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" title="Windows" alt="Windows" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>
     <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" title="Ubuntu" alt="Ubuntu" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" title="Bash" alt="Bash" width="50" height="50"/>
 </div>
 
 # 💻 Skills:
