@@ -33,11 +33,16 @@
 </div>
 
     
-## 📊 My stats:
-![](https://github-readme-stats.vercel.app/api?username=MrRedu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MrRedu&theme=tokyonight&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRedu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<h2 align="center"> 📊 My stats:</h2>
+<p align="center">
+    <img width="450em" src="https://github-readme-stats.vercel.app/api?username=MrRedu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
+</p>
+<p align="center">
+    <img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrRedu&theme=tokyonight&hide_border=false">
+</p>
+<p align="center">
+    <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrredu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MrRedu&icon=5&color=8)](https://visitcount.itsvg.in)
