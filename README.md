@@ -33,9 +33,11 @@
 </div>
 
     
-## 📊 GitHub Stats:
+## 📊 My stats:
 ![](https://github-readme-stats.vercel.app/api?username=MrRedu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MrRedu&theme=tokyonight&hide_border=false)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRedu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MrRedu&icon=5&color=8)](https://visitcount.itsvg.in)
