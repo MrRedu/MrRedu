@@ -9,8 +9,11 @@
 
 
 ## 🚀 About Me
+<!-- 
 - My name is Eduardo
-- I'm a self-taught programmer constantly learning
+- I'm a self-taught programmer constantly learning 
+-->
+- who am i
 
 
 
