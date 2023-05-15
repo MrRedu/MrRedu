@@ -14,6 +14,7 @@
 - I'm a self-taught programmer constantly learning 
 -->
 - who am i
+- border: 1px solid red
 
 
 
