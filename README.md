@@ -1,11 +1,8 @@
-<div align="end">
-    Languages:  <a href="https://github.com/MrRedu/MrRedu/blob/main/README-es.md">[es] Spanish</a> or <a href="https://github.com/MrRedu/MrRedu/blob/main/README.md">[en] English</a>
-</div>
-
 <!--  
 If you're here and you want to know how to did my profile, 
 |     Part     |                     Webpage                    |                    GitHub                          |
-| ------------ | ---------------------------------------------- | -------------------------------------------------- |
+| :----------: | :--------------------------------------------: | :------------------------------------------------: |
+|     Wave     |                                                |     https://github.com/kyechan99/capsule-render    |
 |    Title     |  https://readme-typing-svg.demolab.com/demo/   | https://github.com/DenverCoder1/readme-typing-svg 
 |    Stats1    |                                                |
 |    Stats2    |                                                |
@@ -13,17 +10,32 @@ If you're here and you want to know how to did my profile,
 |Profile views |       https://visitcount.itsvg.in/create       | 
 -->
 
+<div align="end">
+    Languages:  <a href="https://github.com/MrRedu/MrRedu/blob/main/README-es.md">[es] Spanish</a> or <a href="https://github.com/MrRedu/MrRedu/blob/main/README.md">[en] English</a>
+</div>
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2FA5D8&center=true&vCenter=true&width=435&lines=What's+up!;Be+welcome!+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></h1>
+<br>
+
+<!-- Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=233B55&height=120&section=header&" />
+
+<!-- Title -->
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2FA5D8&center=true&vCenter=true&width=435&lines=What's+up!;Be+welcome!+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+    </a>
+</h1>
 
 
 <div width="50%">
     <br>
-    <img align="right" width="50%" src="https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif">
-    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae reiciendis, beatae perspiciatis quaerat distinctio sapiente ducimus? Quaerat sequi, maiores nulla neque, dolorum ratione ducimus commodi, praesentium corrupti consectetur id minus? <a href="">a</a> Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae reiciendis, beatae perspiciatis quaerat distinctio sapiente ducimus? Quaerat sequi, maiores nulla neque, dolorum ratione ducimus commodi, praesentium corrupti consectetur id minus ducimus commodi, praesentium corrupti consectetur id minus ducimus commodi, praesentium corrupti consectetur id minus  💻</p>  
+    <img align="right" width="50%" height="300" src="https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif">
+    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus hic perspiciatis fugit repellendus nam inventore ratione at labore dolores. Reprehenderit labore enim pariatur veritatis quo rerum, aliquid odit eos aut! Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum accusamus porro laudantium suscipit nobis recusandae deleniti! Nobis non molestiae facere id veniam tempore ipsum labore, blanditiis ea aut, cupiditate accusantium! Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, sequi? Animi quo necessitatibus consequatur fugiat totam libero voluptatum. Qui recusandae quisquam vitae consequatur quo nihil facere quae eius non velit. Lorem ipsum dolor sit amet consectetur adipisicing elit 💻</p>  
 </div>
 
-<br>   
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=233B55&height=120&section=footer" />
+
+<br>
 
 ## 📊 My stats:
 <div align="center">
