@@ -1,22 +1,23 @@
 <!--  
 If you're here and you want to know how to did my profile, 
-|     Part     |                     Webpage                    |                    GitHub                          |
-| :----------: | :--------------------------------------------: | :------------------------------------------------: |
-|     Wave     |                                                |     https://github.com/kyechan99/capsule-render    |
-|    Title     |  https://readme-typing-svg.demolab.com/demo/   | https://github.com/DenverCoder1/readme-typing-svg 
-|    Stats1    |                                                |
-|    Stats2    |                                                |
-|    Stats3    |                                                | https://github.com/ashutosh00710/github-readme-activity-graph
-|Profile views |       https://visitcount.itsvg.in/create       | 
+|     Part     |                     Webpage                    |                            GitHub                             |
+| :----------: | :--------------------------------------------: | :-----------------------------------------------------------: |
+|     Wave     |                                                |            https://github.com/kyechan99/capsule-render        |
+|    Title     |  https://readme-typing-svg.demolab.com/demo/   |       https://github.com/DenverCoder1/readme-typing-svg       |
+|    Stats1    |                                                |                                                               |
+|    Stats2    |                                                |                                                               |
+|    Stats3    |                                                | https://github.com/ashutosh00710/github-readme-activity-graph |
+|Profile views |       https://visitcount.itsvg.in/create       |                                                               |
 -->
 
+<!-- Languages -->
 <div align="end">
     Languages:  <a href="https://github.com/MrRedu/MrRedu/blob/main/README-es.md">[es] Spanish</a> or <a href="https://github.com/MrRedu/MrRedu/blob/main/README.md">[en] English</a>
 </div>
 
 <br>
 
-<!-- Wave -->
+<!-- Wave [header] -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=204571&height=120&section=header&" />
 
 <!-- Title -->
@@ -26,18 +27,19 @@ If you're here and you want to know how to did my profile,
     </a>
 </h1>
 
-
+<!-- Biography/Data -->
 <div width="50%">
     <br>
     <img align="right" width="50%" src="https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif">
     <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus hic perspiciatis fugit repellendus nam inventore ratione at labore dolores. Reprehenderit labore enim pariatur veritatis quo rerum, aliquid odit eos aut! Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum accusamus porro laudantium suscipit nobis recusandae deleniti! Nobis non molestiae facere id veniam tempore ipsum labore, blanditiis ea aut, cupiditate accusantium! Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, sequi? Animi quo necessitatibus consequatur fugiat totam libero voluptatum. Qui recusandae quisquam vitae consequatur quo nihil facere quae eius non velit. Lorem ipsum dolor sit amet consectetur adipisicing elit 💻</p>  
 </div>
 
-<!-- Wave -->
+<!-- Wave [footer] -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=204571&height=120&section=footer" />
 
 <br>
 
+<!-- Stats -->
 ## 📊 My stats:
 <div align="center">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mrredu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&&bg_color=00000000" alt"GitHub Stats">
