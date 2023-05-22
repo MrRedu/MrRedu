@@ -45,18 +45,17 @@
 <br>   
 
 ## 📊 My stats:
-<p align="start">
-    <img width="500em" src="https://github-readme-stats.vercel.app/api?username=mrredu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false">
-</p>
-<p align="start">
-    <img width="500em" display="inline" src="https://github-readme-streak-stats.herokuapp.com/?user=MrRedu&theme=tokyonight&hide_border=false">
-</p>
-<p align="start">
-    <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrredu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-</p>
+<div align="center">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mrredu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt"GitHub Stats">
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrredu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages>
+</div>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MrRedu&theme=tokyo-night)](https://github.com/MrRedu/github-readme-activity-graph)
+
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MrRedu&icon=5&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MrRedu&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
