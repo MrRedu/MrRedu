@@ -17,7 +17,7 @@ If you're here and you want to know how to did my profile,
 <br>
 
 <!-- Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=233B55&height=120&section=header&" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=204571&height=120&section=header&" />
 
 <!-- Title -->
 <h1 align="center">
@@ -34,7 +34,7 @@ If you're here and you want to know how to did my profile,
 </div>
 
 <!-- Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=233B55&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=204571&height=120&section=footer" />
 
 <br>
 
