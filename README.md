@@ -37,11 +37,11 @@ If you're here and you want to know how to did my profile,
 <!-- Wave [footer] -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=204571&height=120&section=footer" />
 
-<br>
-
 <!--  Tools and technologies  -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=8000&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=30&lines=Tools+and" alt="Tools and" /></a> <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=7200&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=35&lines=technologies" alt="technologies" /></a>
+<h3>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=8000&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=30&lines=Tools+and" alt="Tools and" /></a> <br>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=7200&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=35&lines=technologies" alt="technologies" /></a>
+</h3>
 
 <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Antu_text-x-markdown.svg/512px-Antu_text-x-markdown.svg.png?20160706132933" title="Markdown" alt="Markdown" width="50" height="50"/>
