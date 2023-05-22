@@ -4,8 +4,8 @@ If you're here and you want to know how to did my profile,
 | :----------: | :--------------------------------------------: | :-----------------------------------------------------------: |
 |     Wave     |                                                |            https://github.com/kyechan99/capsule-render        |
 |    Title     |  https://readme-typing-svg.demolab.com/demo/   |       https://github.com/DenverCoder1/readme-typing-svg       |
-|    Stats1    |                                                |                                                               |
-|    Stats2    |                                                |                                                               |
+|    Stats1    |            https://gprm.itsvg.in/              |                                                               |
+|    Stats2    |            https://gprm.itsvg.in/              |                                                               |
 |    Stats3    |                                                | https://github.com/ashutosh00710/github-readme-activity-graph |
 |Profile views |       https://visitcount.itsvg.in/create       |                                                               |
 -->
@@ -39,17 +39,10 @@ If you're here and you want to know how to did my profile,
 
 <br>
 
-<!-- Stats -->
-## 📊 My stats:
-<div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mrredu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&&bg_color=00000000" alt"GitHub Stats">
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrredu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000" alt="Most used languages">
-    <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=MrRedu&theme=tokyo-night&hide_border=true&&bg_color=00000000" alt="Stats">
-</div>
+<!--  ACÁAAAA  -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=8000&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=30&lines=Tools+and" alt="Typing SVG" /></a> <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=8000&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=30&lines=Technologies" alt="Typing SVG" /></a>
 
-<br>
-
-## 💻 Skills:
 <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Antu_text-x-markdown.svg/512px-Antu_text-x-markdown.svg.png?20160706132933" title="Markdown" alt="Markdown" width="50" height="50"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" title="Notion" alt="Notion" width="50" height="50"/>
@@ -69,7 +62,17 @@ If you're here and you want to know how to did my profile,
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" title="Bash" alt="Bash" width="50" height="50"/>
 </div>
 
+<br>
 
+<!-- Stats -->
+## 📊 My stats:
+<div align="center">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mrredu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&&bg_color=00000000" alt"GitHub Stats">
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrredu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000" alt="Most used languages">
+    <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=MrRedu&theme=tokyo-night&hide_border=true&&bg_color=00000000" alt="Stats">
+</div>
+
+<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MrRedu&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
