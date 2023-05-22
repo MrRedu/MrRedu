@@ -39,7 +39,11 @@ If you're here and you want to know how to did my profile,
 <div width="50%">
     <br>
     <img align="right" width="50%" src="https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif">
-    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus hic perspiciatis fugit repellendus nam inventore ratione at labore dolores. Reprehenderit labore enim pariatur veritatis quo rerum, aliquid odit eos aut! Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum accusamus porro laudantium suscipit nobis recusandae deleniti! Nobis non molestiae facere id veniam tempore ipsum labore, blanditiis ea aut, cupiditate accusantium! Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, sequi? Animi quo necessitatibus consequatur fugiat totam libero voluptatum. Qui recusandae quisquam vitae consequatur quo nihil facere quae eius non velit. Lorem ipsum dolor sit amet consectetur adipisicing elit 💻</p>  
+    <p> I’m a mysterious individual who has yet to fill out my bio. One thing’s for certain: I love writing front-end code! 💻<br>
+        <ul>
+            <li>CSS Lover</li>
+        </ul>
+    </p>  
 </div>
 
 <!-- Wave [footer] -->
