@@ -1,22 +1,26 @@
 <div align="end">
     Languages:  <a href="https://github.com/MrRedu/MrRedu/blob/main/README-es.md">[es] Spanish</a> or <a href="https://github.com/MrRedu/MrRedu/blob/main/README.md">[en] English</a>
 </div>
+
 <br>
+
 
 <h1 align="center">Welcome to MrRedu's profile 👩‍💻</h1>
 
-<img src="https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif">
+<div width="50%">
+    <br>
+    <img align="right" width="50%" src="https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif">
+    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae reiciendis, beatae perspiciatis quaerat distinctio sapiente ducimus? Quaerat sequi, maiores nulla neque, dolorum ratione ducimus commodi, praesentium corrupti consectetur id minus? <a href="">a</a> Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae reiciendis, beatae perspiciatis quaerat distinctio sapiente ducimus? Quaerat sequi, maiores nulla neque, dolorum ratione ducimus commodi, praesentium corrupti consectetur id minus ducimus commodi, praesentium corrupti consectetur id minus ducimus commodi, praesentium corrupti consectetur id minus  💻</p>  
+</div>
 
+<br>   
 
-## 🚀 About Me
-<!-- 
-- My name is Eduardo
-- I'm a self-taught programmer constantly learning 
--->
-- who am i
-- border: 1px solid red
-
-
+## 📊 My stats:
+<div align="center">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mrredu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&&bg_color=00000000" alt"GitHub Stats">
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrredu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000" alt="Most used languages">
+    <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=MrRedu&theme=tokyo-night&hide_border=true&&bg_color=00000000" alt="Stats">
+</div>
 
 <br>
 
@@ -39,21 +43,6 @@
     <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" title="Ubuntu" alt="Ubuntu" width="50" height="50"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" title="Bash" alt="Bash" width="50" height="50"/>
 </div>
-
-
-
-<br>   
-
-<!-- ## 📊 My stats: -->
-<div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mrredu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&" alt"GitHub Stats">
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrredu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages>
-</div>
-
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MrRedu&theme=tokyo-night&hide_border=true)](https://github.com/MrRedu/github-readme-activity-graph)
 
 
 
