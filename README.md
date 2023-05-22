@@ -64,6 +64,48 @@ If you're here and you want to know how to did my profile,
 
 <br>
 
+<!-- My latest projects -->
+<h3>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=7600&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=30&lines=My+latest" alt="Typing SVG" /></a> <br>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=7200&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=35&lines=projects" alt="Typing SVG" /></a>
+</h3>
+
+<table>
+    <tbody>
+        <tr>
+            <td width="50%">
+                <h3>Title</h3>
+                <img src="https://www.pulsecarshalton.co.uk/wp-content/uploads/2016/08/jk-placeholder-image.jpg">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam. Nemo veritatis labore ab nostrum suscipit porro facere odio tempore.</p>
+                <span>You can acces this app <a href="">here</a></span>          
+            </td>
+            <td width="50%">
+                <h3>Title</h3>
+                <img src="https://www.pulsecarshalton.co.uk/wp-content/uploads/2016/08/jk-placeholder-image.jpg">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam. Nemo veritatis labore ab nostrum suscipit porro facere odio tempore.</p>
+                <span>You can acces this app <a href="">here</a></span>          
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <h3>Title</h3>
+                <img src="https://www.pulsecarshalton.co.uk/wp-content/uploads/2016/08/jk-placeholder-image.jpg">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam. Nemo veritatis labore ab nostrum suscipit porro facere odio tempore.</p>
+                <span>You can acces this app <a href="">here</a></span>          
+            </td>
+            <td width="50%">
+                <h3>Title</h3>
+                <img src="https://www.pulsecarshalton.co.uk/wp-content/uploads/2016/08/jk-placeholder-image.jpg">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam. Nemo veritatis labore ab nostrum suscipit porro facere odio tempore.</p>
+                <span>You can acces this app <a href="">here</a></span>          
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+<br>
+
 <!-- GitHub Stats -->
 <h3>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=5200&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=30&lines=GitHub" alt="Typing SVG" /></a> <br>
