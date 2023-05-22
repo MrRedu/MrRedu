@@ -7,9 +7,9 @@ If you're here and you want to know how to did my profile,
 |     Part     |                     Webpage                    |                    GitHub                          |
 | ------------ | ---------------------------------------------- | -------------------------------------------------- |
 |    Title     |  https://readme-typing-svg.demolab.com/demo/   | https://github.com/DenverCoder1/readme-typing-svg 
-|    Stats     |                                                |
-|    Stats     |                                                |
-|    Stats     |                                                |   
+|    Stats1    |                                                |
+|    Stats2    |                                                |
+|    Stats3    |                                                | https://github.com/ashutosh00710/github-readme-activity-graph
 |Profile views |       https://visitcount.itsvg.in/create       | 
 -->
 
