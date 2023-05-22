@@ -83,32 +83,25 @@ If you're here and you want to know how to did my profile,
 <table>
     <tbody>
         <tr>
-            <td width="50%">
+            <td width="33%">
                 <h3>Title</h3>
                 <img width="100%" height="160" src="https://www.pulsecarshalton.co.uk/wp-content/uploads/2016/08/jk-placeholder-image.jpg">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam. Nemo veritatis labore ab nostrum suscipit porro facere odio tempore.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam.</p>
                 <span>You can acces this app <a href="">here</a></span>          
             </td>
-            <td width="50%">
+            <td width="33%">
                 <h3>Title</h3>
                 <img width="100%" height="160" src="https://www.pulsecarshalton.co.uk/wp-content/uploads/2016/08/jk-placeholder-image.jpg">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam. Nemo veritatis labore ab nostrum suscipit porro facere odio tempore.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam.</p>
+                <span>You can acces this app <a href="">here</a></span>          
+            </td>
+            <td width="33%">
+                <h3>Title</h3>
+                <img width="100%" height="160" src="https://www.pulsecarshalton.co.uk/wp-content/uploads/2016/08/jk-placeholder-image.jpg">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam.</p>
                 <span>You can acces this app <a href="">here</a></span>          
             </td>
         </tr>
-        <tr>
-            <td width="50%">
-                <h3>Title</h3>
-                <img width="100%" height="160" src="https://www.pulsecarshalton.co.uk/wp-content/uploads/2016/08/jk-placeholder-image.jpg">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam. Nemo veritatis labore ab nostrum suscipit porro facere odio tempore.</p>
-                <span>You can acces this app <a href="">here</a></span>          
-            </td>
-            <td width="50%">
-                <h3>Title</h3>
-                <img width="100%" height="160" src="https://www.pulsecarshalton.co.uk/wp-content/uploads/2016/08/jk-placeholder-image.jpg">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam. Nemo veritatis labore ab nostrum suscipit porro facere odio tempore.</p>
-                <span>You can acces this app <a href="">here</a></span>          
-            </td>
         </tr>
     </tbody>
 </table>
