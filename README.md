@@ -2,10 +2,20 @@
     Languages:  <a href="https://github.com/MrRedu/MrRedu/blob/main/README-es.md">[es] Spanish</a> or <a href="https://github.com/MrRedu/MrRedu/blob/main/README.md">[en] English</a>
 </div>
 
-<br>
+<!--  
+If you're here and you want to know how to did my profile, 
+|     Part     |                     Webpage                    |                    GitHub                          |
+| ------------ | ---------------------------------------------- | -------------------------------------------------- |
+|    Title     |  https://readme-typing-svg.demolab.com/demo/   | https://github.com/DenverCoder1/readme-typing-svg 
+|    Stats     |                                                |
+|    Stats     |                                                |
+|    Stats     |                                                |   
+|Profile views |       https://visitcount.itsvg.in/create       | 
+-->
 
 
-<h1 align="center">Welcome to MrRedu's profile 👩‍💻</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2FA5D8&center=true&vCenter=true&width=435&lines=What's+up!;Be+welcome!+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></h1>
+
 
 <div width="50%">
     <br>
