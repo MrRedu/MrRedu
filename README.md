@@ -44,7 +44,7 @@
 
 <br>   
 
-## 📊 My stats:
+<!-- ## 📊 My stats: -->
 <div align="center">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mrredu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&" alt"GitHub Stats">
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrredu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages>
