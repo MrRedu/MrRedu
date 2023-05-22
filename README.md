@@ -10,12 +10,18 @@ If you're here and you want to know how to did my profile,
 |Profile views |       https://visitcount.itsvg.in/create       |                                                               |
 -->
 
+<!-- ---------------------------------------------------------------------------------------------- -->
+
 <!-- Languages -->
 <div align="end">
     Languages:  <a href="https://github.com/MrRedu/MrRedu/blob/main/README-es.md">[es] Spanish</a> or <a href="https://github.com/MrRedu/MrRedu/blob/main/README.md">[en] English</a>
 </div>
 
+<!-- ---------------------------------------------------------------------------------------------- -->
+
 <br>
+
+<!-- ---------------------------------------------------------------------------------------------- -->
 
 <!-- Wave [header] -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=204571&height=120&section=header&" />
@@ -23,9 +29,11 @@ If you're here and you want to know how to did my profile,
 <!-- Title -->
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2FA5D8&center=true&vCenter=true&width=435&lines=What's+up!;Be+welcome!+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2FA5D8&center=true&vCenter=true&width=435&lines=What's+up!;Be+welcome!+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" alt="Mr Redu's profile" />
     </a>
 </h1>
+
+<!-- ---------------------------------------------------------------------------------------------- -->
 
 <!-- Biography/Data -->
 <div width="50%">
@@ -37,10 +45,12 @@ If you're here and you want to know how to did my profile,
 <!-- Wave [footer] -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=204571&height=120&section=footer" />
 
+<!-- ---------------------------------------------------------------------------------------------- -->
+
 <!--  Tools and technologies  -->
 <h3>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=6000&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=30&lines=Tools+and" alt="Tools and" /></a> <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=5200&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=35&lines=technologies" alt="technologies" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=6000&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=30&lines=Tools+and" alt="Tools and technologies" /></a> <br>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=5200&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=35&lines=technologies" alt="Tools and technologies" /></a>
 </h3>
 
 <div>
@@ -62,12 +72,12 @@ If you're here and you want to know how to did my profile,
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" title="Bash" alt="Bash" width="50" height="50"/>
 </div>
 
-<br>
+<!-- ---------------------------------------------------------------------------------------------- -->
 
 <!-- My latest projects -->
 <h3>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=7600&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=30&lines=My+latest" alt="Typing SVG" /></a> <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=7200&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=35&lines=projects" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=7600&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=30&lines=My+latest" alt="My latest projects" /></a> <br>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=7200&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=35&lines=projects" alt="My latest projects" /></a>
 </h3>
 
 <table>
@@ -103,8 +113,7 @@ If you're here and you want to know how to did my profile,
     </tbody>
 </table>
 
-
-<br>
+<!-- ---------------------------------------------------------------------------------------------- -->
 
 <!-- GitHub Stats -->
 <h3>
@@ -118,7 +127,15 @@ If you're here and you want to know how to did my profile,
     <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=MrRedu&theme=tokyo-night&hide_border=true&&bg_color=00000000" alt="Stats">
 </div>
 
-<br>
+<!-- ---------------------------------------------------------------------------------------------- -->
+
+<!-- Connect with me! -->
+<h3>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=5200&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=30&lines=Connect" alt="Connect with me!" /></a> <br>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=6000&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=35&lines=with me!" alt="Connect with me!" /></a>
+</h3>
+
+<!-- ---------------------------------------------------------------------------------------------- -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MrRedu&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
