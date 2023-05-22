@@ -69,9 +69,10 @@ If you're here and you want to know how to did my profile,
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=5200&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=30&lines=GitHub" alt="Typing SVG" /></a> <br>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=6400&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=35&lines=Stats" alt="Typing SVG" /></a>
 </h3>
+
 <div align="center">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mrredu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&&bg_color=00000000" alt"GitHub Stats">
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrredu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000" alt="Most used languages">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrredu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000" alt="Most used languages">
     <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=MrRedu&theme=tokyo-night&hide_border=true&&bg_color=00000000" alt="Stats">
 </div>
 
