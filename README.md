@@ -119,8 +119,8 @@ If you're here and you want to know how to did my profile,
 </h3>
 
 <div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mrredu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&&bg_color=00000000" alt"GitHub Stats">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrredu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000" alt="Most used languages">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MrRedu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&&bg_color=00000000" alt"GitHub Stats">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRedu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000" alt="Most used languages">
 <!--     <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=MrRedu&theme=tokyo-night&hide_border=true&&bg_color=00000000" alt="Stats"> -->
 </div>
 
