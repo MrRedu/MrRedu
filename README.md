@@ -87,7 +87,7 @@ If you're here and you want to know how to did my profile,
 <details open> 
     <summary>
         <h3>
-            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=2FA5D8&center=true&vCenter=true&width=250&height=22&lines=My+latest+projects" alt="My latest projects"/></a>
+            <a href="https://github.com/MrRedu#---------------------1"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=2FA5D8&center=true&vCenter=true&width=250&height=22&lines=My+latest+projects" alt="My latest projects"/></a>
         </h3>
     </summary>
     
@@ -124,7 +124,7 @@ If you're here and you want to know how to did my profile,
 <details closed> 
     <summary>
         <h3>
-           <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4200&pause=2000&color=2FA5D8&center=true&vCenter=true&width=170&height=22&lines=GitHub+Stats" alt="GitHub Stats" /></a> 
+           <a href="https://github.com/MrRedu#---------------------2"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4200&pause=2000&color=2FA5D8&center=true&vCenter=true&width=170&height=22&lines=GitHub+Stats" alt="GitHub Stats" /></a> 
         </h3>
     </summary>
 <div align="center">
