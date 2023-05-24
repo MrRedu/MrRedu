@@ -56,7 +56,7 @@ If you're here and you want to know how to did my profile,
 <details closed> 
     <summary>
         <h3>
-            <a href="https://github.com/MrRedu#--------"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=2FA5D8&center=true&vCenter=true&width=300&height=22&lines=Tools+and+technologies" alt="Tools and technologies"/></a>
+            <a href="https://github.com/MrRedu#--------------------"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=2FA5D8&center=true&vCenter=true&width=300&height=22&lines=Tools+and+technologies" alt="Tools and technologies"/></a>
         </h3>
     </summary>
 <div align="left">
