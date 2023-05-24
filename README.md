@@ -3,7 +3,7 @@ If you're here and you want to know how to did my profile,
 |     Part     |                     Webpage                    |                            GitHub                             |
 | :----------: | :--------------------------------------------: | :-----------------------------------------------------------: |
 |     Wave     |                                                |            https://github.com/kyechan99/capsule-render        |
-|    Title     |  https://readme-typing-svg.demolab.com/demo/   |       https://github.com/DenverCoder1/readme-typing-svg       |
+|    Titles    |  https://readme-typing-svg.demolab.com/demo/   |       https://github.com/DenverCoder1/readme-typing-svg       |
 |    Stats1    |            https://gprm.itsvg.in/              |                                                               |
 |    Stats2    |            https://gprm.itsvg.in/              |                                                               |
 |    Stats3    |     https://streak-stats.demolab.com/demo/     | https://github.com/denvercoder1/github-readme-streak-stats    |
@@ -53,12 +53,12 @@ If you're here and you want to know how to did my profile,
 <!-- ---------------------------------------------------------------------------------------------- -->
 
 <!--  Tools and technologies  -->
-<h3>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=6000&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=30&lines=Tools+and" alt="Tools and technologies" /></a> <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=5200&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=35&lines=technologies" alt="Tools and technologies" /></a>
-</h3>
-
-<div>
+<details closed> 
+    <summary>
+        <h3><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=2FA5D8&center=true&vCenter=true&width=300&height=22&lines=Tools+and+technologies" alt="Tools and technologies"/>
+        </h3>
+    </summary>
+<div align="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Antu_text-x-markdown.svg/512px-Antu_text-x-markdown.svg.png?20160706132933" title="Markdown" alt="Markdown" width="50" height="50"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" title="Notion" alt="Notion" width="50" height="50"/>
     <img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" title="Vercel" alt="Vercel" width="50" height="50"/>
@@ -76,6 +76,9 @@ If you're here and you want to know how to did my profile,
     <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" title="Ubuntu" alt="Ubuntu" width="50" height="50"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" title="Bash" alt="Bash" width="50" height="50"/>
 </div>
+    
+</details>
+
 
 <!-- ---------------------------------------------------------------------------------------------- -->
 
