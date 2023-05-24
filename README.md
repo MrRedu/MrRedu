@@ -55,9 +55,9 @@ If you're here and you want to know how to did my profile,
 <!--  Tools and technologies  -->
 <details closed> 
     <summary>
-        <h3>
+        <h2>
             <a href="https://github.com/MrRedu#--------------------"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=2FA5D8&center=true&vCenter=true&width=300&height=22&lines=Tools+and+technologies" alt="Tools and technologies"/></a>
-        </h3>
+        </h2>
     </summary>
 <div align="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Antu_text-x-markdown.svg/512px-Antu_text-x-markdown.svg.png?20160706132933" title="Markdown" alt="Markdown" width="50" height="50"/>
@@ -86,9 +86,9 @@ If you're here and you want to know how to did my profile,
 <!-- My latest projects -->
 <details open> 
     <summary>
-        <h3>
+        <h2>
             <a href="https://github.com/MrRedu#---------------------1"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=2FA5D8&center=true&vCenter=true&width=250&height=22&lines=My+latest+projects" alt="My latest projects"/></a>
-        </h3>
+        </h2>
     </summary>
     
 <table>
@@ -123,9 +123,9 @@ If you're here and you want to know how to did my profile,
 <!-- GitHub Stats -->
 <details closed> 
     <summary>
-        <h3>
+        <h2>
            <a href="https://github.com/MrRedu#---------------------2"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4200&pause=2000&color=2FA5D8&center=true&vCenter=true&width=170&height=22&lines=GitHub+Stats" alt="GitHub Stats" /></a> 
-        </h3>
+        </h2>
     </summary>
 <div align="center">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MrRedu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&&bg_color=00000000" alt"GitHub Stats">
@@ -138,15 +138,17 @@ If you're here and you want to know how to did my profile,
 <!-- ---------------------------------------------------------------------------------------------- -->
 
 <!-- Connect with me! -->
-<h3>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=5200&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=30&lines=Connect" alt="Connect with me!" /></a> <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=6000&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=35&lines=with me!" alt="Connect with me!" /></a>
-</h3>
-
-
+<details open> 
+    <summary>
+        <h2>
+           <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4200&pause=2000&color=2FA5D8&center=true&vCenter=true&width=225&height=22&lines=Connect+with+me!" alt="Connect with me!" /></a>
+        </h2>
+    </summary>
+    
 [![Github Badge](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrRedu)[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/users/217725428633305089)](https://discord.com/users/217725428633305089)[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrredu/)<!-- [![Website Badge](https://img.shields.io/badge/-Website-ffb200?style=for-the-badge&logo=google-chrome&logoColor=white)]()-->[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MrReduDev)
 
 [![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/MrRedu)[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/MrRedu/)
+</details>
 
 <!-- ---------------------------------------------------------------------------------------------- -->
 
