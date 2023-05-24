@@ -141,7 +141,7 @@ If you're here and you want to know how to did my profile,
 <details open> 
     <summary>
         <h2>
-           <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4200&pause=2000&color=2FA5D8&center=true&vCenter=true&width=225&height=22&lines=Connect+with+me!" alt="Connect with me!" /></a>
+           <a href="https://github.com/MrRedu#-------------------"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4200&pause=2000&color=2FA5D8&center=true&vCenter=true&width=225&height=22&lines=Connect+with+me!" alt="Connect with me!"/></a>
         </h2>
     </summary>
     
