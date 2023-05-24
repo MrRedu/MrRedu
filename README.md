@@ -29,7 +29,7 @@ If you're here and you want to know how to did my profile,
 
 <!-- Title -->
 <h1 align="center">
-    <a href="https://git.io/typing-svg">
+    <a href="https://github.com/MrRedu#----------------">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2FA5D8&center=true&vCenter=true&width=435&lines=What's+up!;Be+welcome!+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" alt="Mr Redu's profile" />
     </a>
 </h1>
@@ -84,11 +84,13 @@ If you're here and you want to know how to did my profile,
 <!-- ---------------------------------------------------------------------------------------------- -->
 
 <!-- My latest projects -->
-<h3>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=7600&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=30&lines=My+latest" alt="My latest projects" /></a> <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=7200&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=35&lines=projects" alt="My latest projects" /></a>
-</h3>
-
+<details open> 
+    <summary>
+        <h3>
+            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=2FA5D8&center=true&vCenter=true&width=250&height=22&lines=My+latest+projects" alt="My latest projects"/></a>
+        </h3>
+    </summary>
+    
 <table>
     <tbody>
         <tr>
@@ -114,21 +116,24 @@ If you're here and you want to know how to did my profile,
         </tr>
     </tbody>
 </table>
+</details>
 
 <!-- ---------------------------------------------------------------------------------------------- -->
 
 <!-- GitHub Stats -->
-<h3>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=5200&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=30&lines=GitHub" alt="Typing SVG" /></a> <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=6400&pause=1&color=2FA5D8&background=2569FF00&multiline=true&width=435&height=35&lines=Stats" alt="Typing SVG" /></a>
-</h3>
-
+<details closed> 
+    <summary>
+        <h3>
+           <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4200&pause=2000&color=2FA5D8&center=true&vCenter=true&width=170&height=22&lines=GitHub+Stats" alt="GitHub Stats" /></a> 
+        </h3>
+    </summary>
 <div align="center">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MrRedu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&&bg_color=00000000" alt"GitHub Stats">
     <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=MrRedu&theme=tokyonight&hide_border=true&background=FFFFFF00">
     <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRedu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000" alt="Most used languages">
-    <!--     <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=MrRedu&theme=tokyo-night&hide_border=true&&bg_color=00000000" alt="Stats"> -->
+    <!-- <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=MrRedu&theme=tokyo-night&hide_border=true&&bg_color=00000000" alt="Stats"> -->
 </div>
+</details>
 
 <!-- ---------------------------------------------------------------------------------------------- -->
 
