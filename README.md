@@ -147,7 +147,7 @@ If you're here and you want to know how to did my profile,
     
 [![Github Badge](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrRedu)[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/users/217725428633305089)](https://discord.com/users/217725428633305089)[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrredu/)<!-- [![Website Badge](https://img.shields.io/badge/-Website-ffb200?style=for-the-badge&logo=google-chrome&logoColor=white)]()-->[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MrReduDev)
 
-[![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/MrRedu)[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/MrRedu/)
+[![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/MrRedu)[![FrontendMentor Badge](https://img.shields.io/badge/Frontend%20Mentor-3F54A3.svg?style=for-the-badge&logo=Frontend-Mentor&logoColor=white)](https://www.frontendmentor.io/profile/MrRedu)[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/MrRedu/)  
 </details>
 
 <!-- ---------------------------------------------------------------------------------------------- -->
