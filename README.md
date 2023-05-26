@@ -4,6 +4,7 @@ If you're here and you want to know how to did my profile,
 | :----------: | :--------------------------------------------: | :-----------------------------------------------------------: |
 |     Wave     |                                                |            https://github.com/kyechan99/capsule-render        |
 |    Titles    |  https://readme-typing-svg.demolab.com/demo/   |       https://github.com/DenverCoder1/readme-typing-svg       |
+|    Badges    |  https://home.aveek.io/GitHub-Profile-Badges/  |      https://github.com/Aveek-Saha/GitHub-Profile-Badges      |
 |    Stats1    |            https://gprm.itsvg.in/              |                                                               |
 |    Stats2    |            https://gprm.itsvg.in/              |                                                               |
 |    Stats3    |     https://streak-stats.demolab.com/demo/     | https://github.com/denvercoder1/github-readme-streak-stats    |
@@ -17,8 +18,6 @@ If you're here and you want to know how to did my profile,
 <div align="end">
     Languages:  <a href="https://github.com/MrRedu/MrRedu/blob/main/README-es.md">[es] Spanish</a> or <a href="https://github.com/MrRedu/MrRedu/blob/main/README.md">[en] English</a>
 </div>
-
-<!-- ---------------------------------------------------------------------------------------------- -->
 
 <br>
 
@@ -59,27 +58,19 @@ If you're here and you want to know how to did my profile,
             <a href="https://github.com/MrRedu#--------------------"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=2FA5D8&center=true&vCenter=true&width=300&height=22&lines=Tools+and+technologies" alt="Tools and technologies"/></a>
         </h2>
     </summary>
-<div align="left">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Antu_text-x-markdown.svg/512px-Antu_text-x-markdown.svg.png?20160706132933" title="Markdown" alt="Markdown" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" title="Notion" alt="Notion" width="50" height="50"/>
-    <img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" title="Vercel" alt="Vercel" width="50" height="50"/>
+    <img src="https://img.shields.io/badge/Markdown-399EE7.svg?style=for-the-badge&logo=Markdown&logoColor=white" title="Markdown" alt="Markdown"/>
+    <img src="https://img.shields.io/badge/Notion-FFF.svg?style=for-the-badge&logo=Notion&logoColor=000" title="Notion" alt="Notion"/>
+    <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" title="Vercel" alt="Vercel"/>
     <br>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML5" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png" title="TailwindCSS" alt="TailwindCSS" width="50" height="50"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" title="CSS3" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" title="SASS" alt="SASS"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Node.js-026E00.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" title="NodeJS" alt="NodeJS"/>
     <br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" title="Windows" alt="Windows" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>
-    <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" title="Ubuntu" alt="Ubuntu" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" title="Bash" alt="Bash" width="50" height="50"/>
-</div>
-    
+     <img src="https://img.shields.io/badge/Linux-E4E4E4.svg?style=for-the-badge&logo=Linux&logoColor=black" title="Linux" alt="Linux"/>      <img src="https://img.shields.io/badge/Ubuntu-6A254A.svg?style=for-the-badge&logo=Ubuntu&logoColor=white" title="Ubuntu" alt="Ubuntu"/>
+    <img src="https://img.shields.io/badge/Bash-282828.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" title="GNU Bash" alt="GNU Bash"/> 
 </details>
-
 
 <!-- ---------------------------------------------------------------------------------------------- -->
 
@@ -87,35 +78,36 @@ If you're here and you want to know how to did my profile,
 <details open> 
     <summary>
         <h2>
-            <a href="https://github.com/MrRedu#---------------------1"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=2FA5D8&center=true&vCenter=true&width=250&height=22&lines=My+latest+projects" alt="My latest projects"/></a>
+            <a href="https://github.com/MrRedu#---------------------1">
+                <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=2FA5D8&center=true&vCenter=true&width=250&height=22&lines=My+latest+projects" alt="My latest projects"/>
+            </a>
         </h2>
     </summary>
-    
-<table>
-    <tbody>
-        <tr>
-            <td width="33%">
-                <h3>Title</h3>
-                <img width="100%" height="160" src="https://www.pulsecarshalton.co.uk/wp-content/uploads/2016/08/jk-placeholder-image.jpg">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam.</p>
-                <span>You can acces this app <a href="">here</a></span>          
-            </td>
-            <td width="33%">
-                <h3>Title</h3>
-                <img width="100%" height="160" src="https://www.pulsecarshalton.co.uk/wp-content/uploads/2016/08/jk-placeholder-image.jpg">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam.</p>
-                <span>You can acces this app <a href="">here</a></span>          
-            </td>
-            <td width="33%">
-                <h3>Title</h3>
-                <img width="100%" height="160" src="https://www.pulsecarshalton.co.uk/wp-content/uploads/2016/08/jk-placeholder-image.jpg">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam.</p>
-                <span>You can acces this app <a href="">here</a></span>          
-            </td>
-        </tr>
-        </tr>
-    </tbody>
-</table>
+    <table>
+        <tbody>
+            <tr>
+                <td width="33%">
+                    <h3>Title</h3>
+                    <img width="100%" height="160" src="https://www.pulsecarshalton.co.uk/wp-content/uploads/2016/08/jk-placeholder-image.jpg">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam.</p>
+                    <span>You can acces this app <a href="">here</a></span>          
+                </td>
+                <td width="33%">
+                    <h3>Title</h3>
+                    <img width="100%" height="160" src="https://www.pulsecarshalton.co.uk/wp-content/uploads/2016/08/jk-placeholder-image.jpg">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam.</p>
+                    <span>You can acces this app <a href="">here</a></span>          
+                </td>
+                <td width="33%">
+                    <h3>Title</h3>
+                    <img width="100%" height="160" src="https://www.pulsecarshalton.co.uk/wp-content/uploads/2016/08/jk-placeholder-image.jpg">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam.</p>
+                    <span>You can acces this app <a href="">here</a></span>          
+                </td>
+            </tr>
+            </tr>
+        </tbody>
+    </table>
 </details>
 
 <!-- ---------------------------------------------------------------------------------------------- -->
@@ -124,15 +116,17 @@ If you're here and you want to know how to did my profile,
 <details closed> 
     <summary>
         <h2>
-           <a href="https://github.com/MrRedu#---------------------2"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4200&pause=2000&color=2FA5D8&center=true&vCenter=true&width=170&height=22&lines=GitHub+Stats" alt="GitHub Stats" /></a> 
+           <a href="https://github.com/MrRedu#---------------------2">
+               <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4200&pause=2000&color=2FA5D8&center=true&vCenter=true&width=170&height=22&lines=GitHub+Stats" alt="GitHub Stats" />
+            </a> 
         </h2>
     </summary>
-<div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MrRedu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&&bg_color=00000000" alt"GitHub Stats">
-    <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=MrRedu&theme=tokyonight&hide_border=true&background=FFFFFF00">
-    <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRedu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000" alt="Most used languages">
-    <!-- <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=MrRedu&theme=tokyo-night&hide_border=true&&bg_color=00000000" alt="Stats"> -->
-</div>
+    <div align="center">
+        <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MrRedu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&&bg_color=00000000" alt"GitHub Stats">
+        <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=MrRedu&theme=tokyonight&hide_border=true&background=FFFFFF00">
+        <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRedu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000" alt="Most used languages">
+        <!-- <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=MrRedu&theme=tokyo-night&hide_border=true&&bg_color=00000000" alt="Stats"> -->
+    </div>
 </details>
 
 <!-- ---------------------------------------------------------------------------------------------- -->
@@ -141,7 +135,9 @@ If you're here and you want to know how to did my profile,
 <details open> 
     <summary>
         <h2>
-           <a href="https://github.com/MrRedu#-------------------"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4200&pause=2000&color=2FA5D8&center=true&vCenter=true&width=225&height=22&lines=Connect+with+me!" alt="Connect with me!"/></a>
+           <a href="https://github.com/MrRedu#-------------------">
+               <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4200&pause=2000&color=2FA5D8&center=true&vCenter=true&width=225&height=22&lines=Connect+with+me!" alt="Connect with me!"/>
+            </a>
         </h2>
     </summary>
     
