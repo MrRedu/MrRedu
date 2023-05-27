@@ -71,6 +71,7 @@ If you're here and you want to know how to did my profile,
      <img src="https://img.shields.io/badge/Linux-E4E4E4.svg?style=for-the-badge&logo=Linux&logoColor=black" title="Linux" alt="Linux"/>      <img src="https://img.shields.io/badge/Ubuntu-6A254A.svg?style=for-the-badge&logo=Ubuntu&logoColor=white" title="Ubuntu" alt="Ubuntu"/>
     <img src="https://img.shields.io/badge/Bash-282828.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" title="GNU Bash" alt="GNU Bash"/>
     <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" title="NPM" alt="NPM"/>
+    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" title="Git" alt="Git"/>
 </details>
 
 <!-- ---------------------------------------------------------------------------------------------- -->
@@ -140,11 +141,33 @@ If you're here and you want to know how to did my profile,
                <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4200&pause=2000&color=2FA5D8&center=true&vCenter=true&width=225&height=22&lines=Connect+with+me!" alt="Connect with me!"/>
             </a>
         </h2>
-    </summary>
-    
-[![Github Badge](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrRedu)[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/users/217725428633305089)](https://discord.com/users/217725428633305089)[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrredu/)<!-- [![Website Badge](https://img.shields.io/badge/-Website-ffb200?style=for-the-badge&logo=google-chrome&logoColor=white)]()-->[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MrReduDev)
-
-[![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/MrRedu)[![FrontendMentor Badge](https://img.shields.io/badge/Frontend%20Mentor-3F54A3.svg?style=for-the-badge&logo=Frontend-Mentor&logoColor=white)](https://www.frontendmentor.io/profile/MrRedu)[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/MrRedu/)  
+    </summary>  
+    <a href="https://github.com/MrRedu">
+        <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://www.linkedin.com/in/mrredu/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://discord.com/users/217725428633305089">
+        <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord">
+    </a>
+<!--   ADD PORTFOLIO WEBSITE   -->
+    <a href="https://twitter.com/MrReduDev">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+    </a>
+    <br>
+    <a href="https://codepen.io/MrRedu">
+        <img src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="CodePen">
+    </a>
+    <a href="https://www.frontendmentor.io/profile/MrRedu">
+        <img src="https://img.shields.io/badge/Frontend%20Mentor-3F54A3.svg?style=for-the-badge&logo=Frontend-Mentor&logoColor=white" alt="FrontendMentor">
+    </a>
+    <a href="https://es.stackoverflow.com/users/329901/mrredu">
+        <img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white" alt="StackOverflow">
+    </a>
+    <a href="https://leetcode.com/MrRedu/">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
+    </a>
 </details>
 
 <!-- ---------------------------------------------------------------------------------------------- -->
