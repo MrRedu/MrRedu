@@ -88,23 +88,23 @@ If you're here and you want to know how to did my profile,
     <table>
         <tbody>
             <tr>
-                <td width="33%">
+                <td width="33%" valign='top'>
                     <h3>Title</h3>
                     <img width="100%" height="160" src="https://www.pulsecarshalton.co.uk/wp-content/uploads/2016/08/jk-placeholder-image.jpg">
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam.</p>
                     <span>You can acces this app <a href="">here</a></span>          
                 </td>
-                <td width="33%">
+                <td width="33%" valign='top'>
                     <h3>Title</h3>
                     <img width="100%" height="160" src="https://www.pulsecarshalton.co.uk/wp-content/uploads/2016/08/jk-placeholder-image.jpg">
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam.</p>
                     <span>You can acces this app <a href="">here</a></span>          
                 </td>
-                <td width="33%">
-                    <h3>Title</h3>
-                    <img width="100%" height="160" src="https://www.pulsecarshalton.co.uk/wp-content/uploads/2016/08/jk-placeholder-image.jpg">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam.</p>
-                    <span>You can acces this app <a href="">here</a></span>          
+                <td width="33%" valign='top'>
+                    <h3>Calculator</h3>
+                    <img width="100%" height="160" alt="Gif" src="https://github.com/MrRedu/MrRedu/assets/73679190/39108901-dc12-4e7a-bafc-8542401f927b">
+                    <p>My first calculator 🌌</p>
+                    <span>You can acces this app <a href="https://calculators-drab.vercel.app/" target="_blank">here</a></span>          
                 </td>
             </tr>
             </tr>
@@ -142,30 +142,30 @@ If you're here and you want to know how to did my profile,
             </a>
         </h2>
     </summary>  
-    <a href="https://github.com/MrRedu">
+    <a href="https://github.com/MrRedu" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
     </a>
-    <a href="https://www.linkedin.com/in/mrredu/">
+    <a href="https://www.linkedin.com/in/mrredu/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://discord.com/users/217725428633305089">
+    <a href="https://discord.com/users/217725428633305089" target="_blank">
         <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord">
     </a>
 <!--   ADD PORTFOLIO WEBSITE   -->
-    <a href="https://twitter.com/MrReduDev">
+    <a href="https://twitter.com/MrReduDev" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
     </a>
     <br>
-    <a href="https://codepen.io/MrRedu">
+    <a href="https://codepen.io/MrRedu" target="_blank">
         <img src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="CodePen">
     </a>
-    <a href="https://www.frontendmentor.io/profile/MrRedu">
+    <a href="https://www.frontendmentor.io/profile/MrRedu" target="_blank">
         <img src="https://img.shields.io/badge/Frontend%20Mentor-3F54A3.svg?style=for-the-badge&logo=Frontend-Mentor&logoColor=white" alt="FrontendMentor">
     </a>
-    <a href="https://es.stackoverflow.com/users/329901/mrredu">
+    <a href="https://es.stackoverflow.com/users/329901/mrredu" target="_blank">
         <img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white" alt="StackOverflow">
     </a>
-    <a href="https://leetcode.com/MrRedu/">
+    <a href="https://leetcode.com/MrRedu/" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
     </a>
 </details>
