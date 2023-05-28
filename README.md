@@ -101,7 +101,7 @@ If you're here and you want to know how to did my profile,
                     <span>You can acces this app <a href="">here!</a></span>          
                 </td>
                 <td width="33%" valign='top'>
-                    <h3>Calculator</h3>
+                    <h3><a href="https://github.com/MrRedu/calculators/tree/main/calculator">Calculator</a></h3>
                     <img width="100%" height="150" alt="Gif of a simple calculator" src="https://github.com/MrRedu/MrRedu/assets/73679190/39108901-dc12-4e7a-bafc-8542401f927b">
                     <p>My first calculator 🌌</p>
                     <span>You can acces this app <a href="https://calculators-drab.vercel.app/" target="_blank">here!</a></span>         
