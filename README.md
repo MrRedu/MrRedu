@@ -8,7 +8,7 @@ If you're here and you want to know how to did my profile,
 |    Stats1    |            https://gprm.itsvg.in/              |                                                               |
 |    Stats2    |            https://gprm.itsvg.in/              |                                                               |
 |    Stats3    |     https://streak-stats.demolab.com/demo/     | https://github.com/denvercoder1/github-readme-streak-stats    |
-|    Stats4    |             ** Is disable now **               | https://github.com/ashutosh00710/github-readme-activity-graph |
+|    Stats4    |                                                | https://github.com/ashutosh00710/github-readme-activity-graph |
 |Profile views |       https://visitcount.itsvg.in/create       |                                                               |
 -->
 
@@ -124,10 +124,10 @@ If you're here and you want to know how to did my profile,
         </h2>
     </summary>
     <div align="center">
-        <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MrRedu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt"GitHub Stats">
+<!--         <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MrRedu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt"GitHub Stats"> -->
         <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=MrRedu&theme=tokyonight&hide_border=true&background=FFFFFF00">
-        <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRedu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=ff00ff00" alt="Most used languages">
-<!--         <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MrRedu&theme=tokyo_night&hide_border=true&&bg_color=00000000" alt="Stats">   -->
+<!--         <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRedu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=ff00ff00" alt="Most used languages"> -->
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MrRedu&theme=tokyo-night&hide_border=true&&bg_color=00000000" alt="Stats"   -->
     </div>
 </details>
 
