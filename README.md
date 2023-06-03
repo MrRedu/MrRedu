@@ -95,7 +95,7 @@ If you're here and you want to know how to did my profile,
                     <span>You can acces this app <a href="">here!</a></span>          
                 </td>
                 <td width="33%" valign='top'>
-                    <h3>Simple gallery 🌐</h3>
+                    <h3>Un viaje por el mundo 🌐</h3>
                     <img width="100%" height="150" src="https://github.com/MrRedu/MrRedu/assets/73679190/0cb89892-9d33-4c88-a139-36f924e49cea">
                     <p>A simple gallery. Created with VanillaJavaScript. My first project with JavaScript</p>
                     <span>You can acces this app <a href="https://simple-gallery-js-vanilla.netlify.app/">here!</a></span>          
