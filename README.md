@@ -1,5 +1,5 @@
 <!--  
-If you're here and you want to know how to did my profile, 
+If you're here and you want to know how to did my readme-profile, 
 |     Part     |                     Webpage                    |                            GitHub                             |
 | :----------: | :--------------------------------------------: | :-----------------------------------------------------------: |
 |     Wave     |                                                |            https://github.com/kyechan99/capsule-render        |
