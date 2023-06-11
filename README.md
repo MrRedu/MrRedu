@@ -124,10 +124,10 @@ If you're here and you want to know how to did my readme-profile,
         </h2>
     </summary>
     <div align="center">
-<!--         <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MrRedu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt"GitHub Stats"> -->
-        <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=MrRedu&theme=tokyonight&hide_border=true&background=FFFFFF00">
+<!--         <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MrRedu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt="GitHub Stats">  -->
+        <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=MrRedu&theme=tokyonight&hide_border=true&background=FFFFFF" alt="GitHub Stats">
 <!--         <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRedu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=ff00ff00" alt="Most used languages"> -->
-        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MrRedu&theme=tokyo-night&hide_border=true&&bg_color=00000000" alt="Stats"   -->
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MrRedu&theme=tokyo-night&hide_border=true&&bg_color=00000000" alt="GitHub Stats">
     </div>
 </details>
 
