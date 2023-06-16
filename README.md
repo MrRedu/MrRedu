@@ -66,6 +66,8 @@ If you're here and you want to know how to did my readme-profile,
     <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" title="CSS3" alt="CSS3"/>
     <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" title="SASS" alt="SASS"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React" alt="React"/>
+    <br>
     <img src="https://img.shields.io/badge/Node.js-026E00.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" title="NodeJS" alt="NodeJS"/>
     <br>
      <img src="https://img.shields.io/badge/Linux-E4E4E4.svg?style=for-the-badge&logo=Linux&logoColor=black" title="Linux" alt="Linux"/>      <img src="https://img.shields.io/badge/Ubuntu-6A254A.svg?style=for-the-badge&logo=Ubuntu&logoColor=white" title="Ubuntu" alt="Ubuntu"/>
