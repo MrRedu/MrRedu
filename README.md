@@ -76,6 +76,8 @@ If you're here and you want to know how to did my readme-profile,
     <img src="https://img.shields.io/badge/Bash-282828.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" title="GNU Bash" alt="GNU Bash"/>
     <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" title="NPM" alt="NPM"/>
     <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" title="Git" alt="Git"/>
+    <br>
+    <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" title="Figma" alt="Figma"/>
 </details>
 
 <!-- ---------------------------------------------------------------------------------------------- -->
