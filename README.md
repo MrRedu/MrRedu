@@ -101,16 +101,16 @@ If you're here and you want to know how to did my readme-profile,
                     <span>You can acces this app <a href="">here!</a></span>          
                 </td>
                 <td width="33%" valign='top'>
-                    <h3>Un viaje por el mundo 🌐</h3>
-                    <img width="100%" height="150" src="https://github.com/MrRedu/MrRedu/assets/73679190/0cb89892-9d33-4c88-a139-36f924e49cea">
-                    <p>A simple gallery. Created with VanillaJavaScript. My first project on JavaScript</p>
-                    <span>You can acces this app <a href="https://simple-gallery-js-vanilla.netlify.app/">here!</a></span>          
+                    <h3>Title</h3>
+                    <img width="100%" height="150" src="https://www.pulsecarshalton.co.uk/wp-content/uploads/2016/08/jk-placeholder-image.jpg">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam.</p>
+                    <span>You can acces this app <a href="">here!</a></span>         
                 </td>
                 <td width="33%" valign='top'>
-                    <h3>Calculator</h3>
-                    <img width="100%" height="150" alt="Gif of a simple calculator" src="https://github.com/MrRedu/MrRedu/assets/73679190/39108901-dc12-4e7a-bafc-8542401f927b">
-                    <p>My first calculator 🌌</p>
-                    <span>You can acces this app <a href="https://calculators-drab.vercel.app/" target="_blank">here!</a></span>         
+                    <h3>Title</h3>
+                    <img width="100%" height="150" src="https://www.pulsecarshalton.co.uk/wp-content/uploads/2016/08/jk-placeholder-image.jpg">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam.</p>
+                    <span>You can acces this app <a href="">here!</a></span>          
                 </td>
             </tr>
             </tr>
