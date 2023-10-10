@@ -70,6 +70,8 @@ If you're here and you want to know how to did my readme-profile,
     <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React" alt="React"/>
     <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" title="Next Js" alt="Next Js"/>
     <br>
+    <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white" title="Jest" Js" alt="Jest Js"/>
+    <br>
     <img src="https://img.shields.io/badge/Node.js-026E00.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" title="NodeJS" alt="NodeJS"/>
     <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" title="Express" alt="Express"/>
     <br>
