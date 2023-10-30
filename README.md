@@ -75,7 +75,9 @@ If you're here and you want to know how to did my readme-profile,
     <img src="https://img.shields.io/badge/Node.js-026E00.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" title="NodeJS" alt="NodeJS"/>
     <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" title="Express" alt="Express"/>
     <br>
-     <img src="https://img.shields.io/badge/Linux-E4E4E4.svg?style=for-the-badge&logo=Linux&logoColor=black" title="Linux" alt="Linux"/>      <img src="https://img.shields.io/badge/Ubuntu-6A254A.svg?style=for-the-badge&logo=Ubuntu&logoColor=white" title="Ubuntu" alt="Ubuntu"/>
+    <img src="https://img.shields.io/badge/Linux-E4E4E4.svg?style=for-the-badge&logo=Linux&logoColor=black" title="Linux" alt="Linux"/>
+    <img src="https://img.shields.io/badge/Ubuntu-6A254A.svg?style=for-the-badge&logo=Ubuntu&logoColor=white" title="Ubuntu" alt="Ubuntu"/>
+    <img src="https://img.shields.io/badge/Zsh-F15A24.svg?style=for-the-badge&logo=Zsh&logoColor=white" title="Z shell" alt="Z shell"/>
     <img src="https://img.shields.io/badge/Bash-282828.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" title="GNU Bash" alt="GNU Bash"/>
     <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" title="NPM" alt="NPM"/>
     <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" title="Git" alt="Git"/>
