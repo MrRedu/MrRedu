@@ -100,8 +100,9 @@ If you're here and you want to know how to did my readme-profile,
         <tbody>
             <tr>
                 <td width="33%" valign='top'>
-                    <h3>Gyphi</h3>
-                    <a href="https://github.com/MrRedu/gyphi" target="_blank"><img width="100%" height="150" src="https://user-images.githubusercontent.com/73679190/277121508-b58d06d7-8c97-4d13-a11c-70f8a3355607.png"></a>
+                    <a href="https://github.com/MrRedu/gyphi"><h3>Gyphi</h3></a>
+                    <a href="https://github.com/MrRedu/gyphi" target="_blank" rel=noopener
+><img width="100%" height="150" src="https://user-images.githubusercontent.com/73679190/277121508-b58d06d7-8c97-4d13-a11c-70f8a3355607.png"></a>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam.</p>
                     <span>You can acces this app <a href="https://gyphi.vercel.app/">here!</a></span>          
                 </td>
