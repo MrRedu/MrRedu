@@ -104,17 +104,17 @@ If you're here and you want to know how to did my readme-profile,
         <tbody>
             <tr>
                 <td width="33%" valign='top'>
+                    <a href="https://github.com/MrRedu/redu"><h3>Redu</h3></a>
+                    <img width="100%" height="150" src="https://github.com/MrRedu/MrRedu/assets/73679190/13649029-83e7-4da2-8e4c-9eaab7f1501a">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam.</p>
+                    <span>You can acces this app <a href="https://redu-dev.vercel.app/">here!</a></span>         
+                </td>
+                 <td width="33%" valign='top'>
                     <a href="https://github.com/MrRedu/gyphi"><h3>Gyphi</h3></a>
-                    <a href="https://github.com/MrRedu/gyphi" target="_blank" rel=noopener
-><img width="100%" height="150" src="https://user-images.githubusercontent.com/73679190/277121508-b58d06d7-8c97-4d13-a11c-70f8a3355607.png"></a>
+                    <a href="https://github.com/MrRedu/gyphi" target="_blank" rel=noopener>
+                        <img width="100%" height="150" src="https://user-images.githubusercontent.com/73679190/277121508-b58d06d7-8c97-4d13-a11c-70f8a3355607.png"></a>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam.</p>
                     <span>You can acces this app <a href="https://gyphi.vercel.app/">here!</a></span>          
-                </td>
-                <td width="33%" valign='top'>
-                    <h3>Title</h3>
-                    <img width="100%" height="150" src="https://www.pulsecarshalton.co.uk/wp-content/uploads/2016/08/jk-placeholder-image.jpg">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam.</p>
-                    <span>You can acces this app <a href="">here!</a></span>         
                 </td>
                 <td width="33%" valign='top'>
                     <h3>Title</h3>
