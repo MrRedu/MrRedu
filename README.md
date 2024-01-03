@@ -108,7 +108,7 @@ If you're here and you want to know how to did my readme-profile,
                     <a href="https://github.com/MrRedu/redu" target="_blank" rel=noopener>
                         <img width="100%" height="150" src="https://private-user-images.githubusercontent.com/73679190/293437365-0d384ea0-5c45-4028-8d08-054dd2c95799.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDM4OTgxNjgsIm5iZiI6MTcwMzg5Nzg2OCwicGF0aCI6Ii83MzY3OTE5MC8yOTM0MzczNjUtMGQzODRlYTAtNWM0NS00MDI4LThkMDgtMDU0ZGQyYzk1Nzk5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyMzEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjMwVDAwNTc0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkzZWZmNTgzNDhlZTcyZDFjYzBhODVjYTcxNTEzNWVjODg2OTk5ZDI3ZTgzYWMxNzZjMmMyM2YzN2QyZmI5OTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.hY-8CChGJctKBJxu2HATejgAc2IDZzNGuGhV4tNg1tA">
                     </a>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam.</p>
+                    <p>My portfolio web.</p>
                     <span>You can acces this app <a href="https://redu-dev.vercel.app/">here!</a></span>         
                 </td>
                  <td width="33%" valign='top'>
