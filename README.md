@@ -104,28 +104,29 @@ If you're here and you want to know how to did my readme-profile,
         <tbody>
             <tr>
                 <td width="33%" valign='top'>
-                    <a href="https://github.com/MrRedu/redu"><h3>Redu</h3></a>
-                    <a href="https://github.com/MrRedu/redu" target="_blank" rel=noopener>
-                        <img width="100%" height="150" src="https://private-user-images.githubusercontent.com/73679190/293437365-0d384ea0-5c45-4028-8d08-054dd2c95799.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg1ODkxNDksIm5iZiI6MTcwODU4ODg0OSwicGF0aCI6Ii83MzY3OTE5MC8yOTM0MzczNjUtMGQzODRlYTAtNWM0NS00MDI4LThkMDgtMDU0ZGQyYzk1Nzk5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjIyVDA4MDA0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWViMTMwOWUwZjYxZjg1OWMwY2VhNGUzZGFmZWJiZTFjZGYyNmUyODJiZGU2NjFkMjBiNTlmNzBkZDlkNDA5YmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.b8yO5keOhjFaz7eLaZLEbHG5hYdiZ_pqW3pE6o0DEbE">
+                    <h3>TiDi List</h3>
+                    <a href="https://github.com/MrRedu/ti-di-list" target="_blank" rel=noopener>
+                        <img width="100%" height="180" src="https://redu-dev.vercel.app/_next/image?url=%2Fprojects%2Ftidi-list%2Ftidi-list-desktop-test.webp&w=1200&q=100">
                     </a>
-                    <p>My portfolio web.</p>
-                    <span>You can acces this app <a href="https://redu-dev.vercel.app/">here!</a></span>         
+                    <p>You can create, edit, and delete notes with ease. With a weather widget that allows you to check the weather for any city in the world.</p>
+                    <span>You can acces this app <a href="https://ti-di-list.vercel.app/">here!</a></span>         
                 </td>
                  <td width="33%" valign='top'>
-                    <a href="https://github.com/MrRedu/gyphi"><h3>Gyphi</h3></a>
+                    <h3>Gyphi</h3>
                     <a href="https://github.com/MrRedu/gyphi" target="_blank" rel=noopener>
-                        <img width="100%" height="150" src="https://user-images.githubusercontent.com/73679190/277121508-b58d06d7-8c97-4d13-a11c-70f8a3355607.png">
+                        <img width="100%" height="180" src="https://redu-dev.vercel.app/_next/image?url=%2Fprojects%2Fgyphi%2Fgyphi-desktop-1.webp&w=1200&q=100">
                     </a>
-                    <p>Find your favorite gifs and save them. GIF Gallery.</p>
+                    <p>GIFs app that allows you to not only browse and save your favorite GIFs but also create an account to save and organize your favorites.</p>
                     <span>You can acces this app <a href="https://gyphi.vercel.app/">here!</a></span>          
                 </td>
                 <td width="33%" valign='top'>
-                    <h3>Title</h3>
-                    <a href="https://github.com/MrRedu" target="_blank" rel=noopener>
-                        <img width="100%" height="150" src="https://www.pulsecarshalton.co.uk/wp-content/uploads/2016/08/jk-placeholder-image.jpg">
+                    <h3>Repo</h3>
+                    <a href="https://github.com/meldiu/repo" target="_blank" rel=noopener>
+                        <img width="100%" height="180" src="https://redu-dev.vercel.app/_next/image?url=%2Fprojects%2Frepo%2Frepo-desktop-1.webp&w=1200&q=100">
                     </a>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores hic fuga laborum illum a ipsum velit dignissimos totam perspiciatis magnam.</p>
-                    <span>You can acces this app <a href="">here!</a></span>          
+                    <p>Compilation and organization of a wide variety of tools and resources for web developers and designers.</p>
+                    <br>
+                    <span>You can acces this app <a href="https://repo-meldiu.vercel.app/">here!</a></span> 
                 </td>
             </tr>
             </tr>
