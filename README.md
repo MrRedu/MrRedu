@@ -106,7 +106,7 @@ If you're here and you want to know how to did my readme-profile,
                 <td width="33%" valign='top'>
                     <h3>TiDi List</h3>
                     <a href="https://github.com/MrRedu/ti-di-list" target="_blank" rel=noopener>
-                        <img width="100%" height="180" src="https://redu-dev.vercel.app/_next/image?url=%2Fprojects%2Ftidi-list%2Ftidi-list-desktop-test.webp&w=1200&q=100">
+                        <img width="100%" height="180" src="https://redu-dev.vercel.app/_next/image?url=%2Fprojects%2Ftidi-list%2Ftidi-list-desktop-1.webp&w=1200&q=100">
                     </a>
                     <p>You can create, edit, and delete notes with ease. With a weather widget that allows you to check the weather for any city in the world.</p>
                     <span>You can acces this app <a href="https://ti-di-list.vercel.app/">here!</a></span>         
