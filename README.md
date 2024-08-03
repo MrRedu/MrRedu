@@ -8,9 +8,23 @@
 
 ```js
 const MrRedu = {
-    name: 'Eduardo'
+    me: ['web-developer'],
+    code: {
+        ['front-end']: ['HTML5', 'CSS3', 'Tailwind CSS', 'JavaScript', 'React.js', 'Next.js'],
+        ['back-end']: ['SQL'],
+        others: ['Linux', 'Git', 'GitHub', 'Figma'],
+        learning: ['TypeScript', 'Zustand', 'MongoDB'],
+    }
 }
 ```
+
+
+
+
+
+
+
+
 
 
 <!-- Visitors -->
