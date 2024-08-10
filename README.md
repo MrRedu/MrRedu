@@ -1,6 +1,6 @@
 <!-- Languages -->
 <div align="end">
-    Languages:  <a href="https://github.com/MrRedu/MrRedu/blob/main/README-es.md">[es] Spanish</a> or <a href="https://github.com/MrRedu/MrRedu/blob/main/README.md">[en] English</a>
+    Languages: <a href="https://github.com/MrRedu/MrRedu/blob/main/README-es.md">[es] Spanish</a> or <a href="https://github.com/MrRedu/MrRedu/blob/main/README.md">[en] English</a>
 </div>
 
 <br>
@@ -17,15 +17,6 @@ const MrRedu = {
     }
 }
 ```
-
-
-
-
-
-
-
-
-
 
 <!-- Visitors -->
 ---
