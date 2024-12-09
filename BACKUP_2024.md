@@ -16,10 +16,11 @@ const MrRedu = {
       "JavaScript",
       "React.js",
       "Next.js",
+      "TypeScript",
     ],
     ["back-end"]: ["SQL", "MySQL"],
     others: ["Linux", "Git", "GitHub", "Figma"],
-    learning: ["TypeScript", "Zustand", "MongoDB"],
+    learning: ["Zustand", "MongoDB"],
   },
 };
 ```
