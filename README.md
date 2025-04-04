@@ -1,3 +1,1 @@
-<p align="center">
-  <img width="1000" src="./media/terminal.gif" />
-</p>
+This profile is not a resume. 😄
