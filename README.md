@@ -1,6 +1,6 @@
 ### Hi there 👋, It's Eduardo
 
-I'm a Frontend developer. I like to use [React](https://reactjs.org/) and [NextJS](https://nextjs.org/) for web projects, and [React Native](https://reactnative.dev/) for mobile projects.
+I'm a Frontend developer. I like to use [React](https://reactjs.org/) and [NextJS](https://nextjs.org/) for web projects. [React Native](https://reactnative.dev/) for mobile projects.
 
 ### What i'm up to
 
