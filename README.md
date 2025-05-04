@@ -21,8 +21,3 @@ const MrRedu = {
           'ReactNative', 'shadcn/ui', 'HeroUI'],
 };
 ```
-
-### What i'm up to
-
-- 🌱 Always learning
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mrredu/)
