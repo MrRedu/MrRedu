@@ -16,7 +16,9 @@ const MrRedu = {
     ],
     others: ['Linux', 'Git', 'GitHub', 'Figma'],
   },
-  worked: ['MaterialUI', 'Motion', 'Supabase', 'SQL', 'StyledComponents', 'GraphQL', 'Axios', 'TanStackQuery' 'TanStackTable', 'Expo', 'ReactNative', 'shadcn/ui', 'HeroUI'],
+  worked: ['MaterialUI', 'Motion', 'Supabase', 'SQL', 'StyledComponents',
+          'GraphQL', 'Axios', 'TanStackQuery' 'TanStackTable', 'Expo',
+          'ReactNative', 'shadcn/ui', 'HeroUI'],
 };
 ```
 
